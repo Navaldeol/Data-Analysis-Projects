@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio
 Portfolio containing data analysis projects completed by me for self learning, and hobby purposes. Files are in the form of Jupyter notebooks which I use through the anaconda navigator. 
-### Contents
-  - #### Data Analysis and Visualization
+## Contents
+  - ### Data Analysis and Visualization
       - [911 Calls- Analysis](https://github.com/Navaldeol/Kaggle-911-Dataset/blob/master/911%20Kaggle%20Calls.ipynb)
          - Distinguishing 3 different types of responses (EMS,Fire,Traffic)
          - Visualizing call data through Seaborn and Matplotlib Modules.
@@ -23,7 +23,7 @@ Portfolio containing data analysis projects completed by me for self learning, a
          - Categorizing Apps by rating, most and least downloaded. 
          ![download 4](https://user-images.githubusercontent.com/44048793/51204625-dc43f100-18b8-11e9-8d2e-bd211899cb6f.png)
 
-  - #### Machine Learning
+  - ### Machine Learning
       - [Linear Regression on Ad Data](https://github.com/Navaldeol/Linear-Regression-on-Ad-Data/blob/master/Regression%20on%20Advertising.ipynb)
          - Charting Age, Time spent on site along with internet usage. 
          - Creating a Regression model to predict if a user will click on an ad or not based on their features. 
