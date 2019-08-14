@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Data-Analysis-Projects
 Portfolio containing data analysis projects completed by me for self learning, and hobby purposes. Files are in the form of Jupyter notebooks which I use through the anaconda navigator. 
 ## Contents
   - ### Data Analysis and Visualization
